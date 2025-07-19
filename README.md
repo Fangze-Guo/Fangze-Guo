@@ -11,7 +11,7 @@
 - :microscope: 喜欢看技术博客，学习新技术
 - :man_technologist: 热爱锻炼，想做一个身体强壮的程序员
 - :dart: 开发理念：「写出优雅的代码」 
-- :zap: 学习方向：Java + 深度学习
+- :zap: 学习方向：Java 全栈 + 深度学习
 - :mailbox: 可以通过我的社交账号联系我
 
 
